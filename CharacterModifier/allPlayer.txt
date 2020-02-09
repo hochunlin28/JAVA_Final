@@ -1,0 +1,63 @@
+No.0
+Name: 愛克莉絲
+Level: 4
+Health: 112.0
+(a= 8.0 b= 80.0)
+Mana: 84.0
+(a= 6.0 b= 60.0)
+Mana recover: 10.0
+phyDamage: 42.0
+(a= 3.0 b= 30.0)
+magDamage: 16.0
+(a= 1.5 b= 10.0)
+phyDefence: 11.0
+(a= 1.0 b= 7.0)
+magDefence: 11.0
+(a= 1.0 b= 7.0)
+Speed: 1.25
+Skill 0: 精準射擊
+Skill 1: 元素射擊
+Skill 2: 狙擊
+
+No.1
+Name: 諾亞
+Level: 4
+Health: 140.0
+(a= 10.0 b= 100.0)
+Mana: 70.0
+(a= 5.0 b= 50.0)
+Mana recover: 10.0
+phyDamage: 70.0
+(a= 5.0 b= 50.0)
+magDamage: 4.0
+(a= 1.0 b= 0.0)
+phyDefence: 23.0
+(a= 2.0 b= 15.0)
+magDefence: 14.0
+(a= 1.0 b= 10.0)
+Speed: 1.0
+Skill 0: 劈砍
+Skill 1: 幻影劍
+Skill 2: 重擊
+
+No.2
+Name: 珂瑞艾斯
+Level: 4
+Health: 98.0
+(a= 7.0 b= 70.0)
+Mana: 98.0
+(a= 7.0 b= 70.0)
+Mana recover: 10.0
+phyDamage: 28.0
+(a= 2.0 b= 20.0)
+magDamage: 50.0
+(a= 5.0 b= 30.0)
+phyDefence: 7.0
+(a= 0.5 b= 5.0)
+magDefence: 16.0
+(a= 1.5 b= 10.0)
+Speed: 0.75
+Skill 0: 祕能打擊
+Skill 1: 火球術
+Skill 2: 轟雷
+
